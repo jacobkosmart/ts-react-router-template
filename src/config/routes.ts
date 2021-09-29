@@ -1,7 +1,5 @@
-import IRoute from "../interface/route";
-import About from "../pages/About";
-import Home from "../pages/Home";
-import NotFound from "../pages/NotFound";
+import IRoute from "interface/route";
+import { About, Home, NotFound } from "pages/pageIndex";
 
 const routes: IRoute[] = [
   {

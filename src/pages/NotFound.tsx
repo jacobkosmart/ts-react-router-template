@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom";
-import IPage from "../interface/page";
+import IPage from "interface/page";
 
 const NotFound: React.FC<IPage> = (props) => {
   return (

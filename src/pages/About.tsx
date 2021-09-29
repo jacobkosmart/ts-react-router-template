@@ -1,4 +1,4 @@
-import IPage from "../interface/page";
+import IPage from "interface/page";
 import { useEffect, useState } from "react";
 import { RouteComponentProps, withRouter } from "react-router";
 import { Link } from "react-router-dom";
